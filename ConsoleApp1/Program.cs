@@ -25,6 +25,8 @@ public class Tutorial2
                 Console.WriteLine(rdr[0] + " -- " + rdr[1]);
             }
             rdr.Close();
+
+	    Console.WriteLine("Connect test");
         }
         catch (Exception ex)
         {
