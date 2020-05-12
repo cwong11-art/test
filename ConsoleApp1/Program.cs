@@ -26,7 +26,11 @@ public class Tutorial2
             }
             rdr.Close();
 
+<<<<<<< HEAD
 	    Console.WriteLine("Connect test");
+=======
+	    Console.WriteLine("Connecting to MySQL 11111...");
+>>>>>>> test
         }
         catch (Exception ex)
         {
