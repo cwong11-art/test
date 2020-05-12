@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 fasdfsdfasdf
+=======
+fasdf
+>>>>>>> refs/remotes/origin/anothertest
