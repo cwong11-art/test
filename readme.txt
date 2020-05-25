@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 test
-dfasdfsf
-dfasdfasdfd
-=======
-change back
->>>>>>> test2
+fresh
+brand new test
