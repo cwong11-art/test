@@ -28,6 +28,7 @@ public class Tutorial2
 
             Console.WriteLine("Connecting to MySQL 11111...");
             Console.WriteLine("Connect test");
+            Console.WriteLine("Connect test extra");
         }
         catch (Exception ex)
         {
